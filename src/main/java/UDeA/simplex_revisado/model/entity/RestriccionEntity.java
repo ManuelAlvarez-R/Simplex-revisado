@@ -1,5 +1,6 @@
 package UDeA.simplex_revisado.model.entity;
 
+import UDeA.simplex_revisado.model.Enums.TipoRestriccionEnum;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -9,11 +10,11 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class Restriccion {
+public class RestriccionEntity {
 
     private double[] coeficientes;
 
-    private TipoRestriccion tipo;
+    private TipoRestriccionEnum tipo;
 
     private double ladoDerecho;
 

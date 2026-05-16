@@ -1,5 +1,10 @@
-package UDeA.simplex_revisado.model;
+package UDeA.simplex_revisado.model.Enums;
 
-public enum EstadoSolucion {
+public enum EstadoSolucionEnum {
+
+    OPTIMO,
+    ILIMITADO,
+    INFACTIBLE,
+    MULTIPLES_SOLUCIONES
 
 }
