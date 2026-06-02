@@ -3,3 +3,4 @@ realizado por: Juan David Puerta Palacio, Manuel Felipe Alvarez Rua y Oscar Albe
 
 Codigo que ejecuta el simplex revisado, mostrando todas las iteraciones
 en la carpeta documentacion encuentra el manual de usuario y los requerimientos
+en la carpeta dist se encuentra el archivo ejecutable
