@@ -218,4 +218,4 @@ simplex_app/
 
 ---
 
-*Autores del proyecto: Juan David Puerta, Manuel Felipe Alvarez Rua y Oscar Alberto Plaza* 
+*Autores del proyecto: Juan David Puerta Palacio, Manuel Felipe Alvarez Rua y Oscar Alberto Plaza* 
